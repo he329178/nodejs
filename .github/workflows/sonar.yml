@@ -11,6 +11,9 @@ on:
         SONAR_HOST_URL:
           required: true
           type: string
+        SONAR_PROJECT_KEY:
+          required: false
+          type: string
     secrets:
         SONAR_TOKEN:
           required: true
