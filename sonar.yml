@@ -1,7 +1,7 @@
 name: Sonarqube-called
 
 on:
-#   push:
+#   push: #Test
 #     branches:
 #       - master
       
